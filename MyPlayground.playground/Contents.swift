@@ -9,3 +9,7 @@ print(a+b)
 func sub(a:Int, b:Int) {
     print(a-b)
 }
+
+func mul(a:Int, b:Int) {
+    print(a*b)
+}
