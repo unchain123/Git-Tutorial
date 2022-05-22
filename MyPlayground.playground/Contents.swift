@@ -13,3 +13,7 @@ func sub(a:Int, b:Int) {
 func mul(a:Int, b:Int) {
     print(a*b)
 }
+
+func add(a:Int, b:Int) {
+    print(a+b)
+}
